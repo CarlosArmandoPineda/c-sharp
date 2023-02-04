@@ -1,0 +1,7 @@
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Ingreso de datos\Ingreso de Datos\Ingreso de Datos\bin\Debug\Ingreso de Datos.exe.config
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Ingreso de datos\Ingreso de Datos\Ingreso de Datos\bin\Debug\Ingreso de Datos.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Ingreso de datos\Ingreso de Datos\Ingreso de Datos\bin\Debug\Ingreso de Datos.pdb
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Ingreso de datos\Ingreso de Datos\Ingreso de Datos\obj\Debug\Ingreso de Datos.csproj.AssemblyReference.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Ingreso de datos\Ingreso de Datos\Ingreso de Datos\obj\Debug\Ingreso de Datos.csproj.CoreCompileInputs.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Ingreso de datos\Ingreso de Datos\Ingreso de Datos\obj\Debug\Ingreso de Datos.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Ingreso de datos\Ingreso de Datos\Ingreso de Datos\obj\Debug\Ingreso de Datos.pdb

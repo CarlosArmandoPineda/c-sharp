@@ -1,0 +1,7 @@
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejericicio 3 Comentarios y salida de Datos\Comentarios y Salida de datos\Comentarios y Salida de datos\bin\Debug\Comentarios y Salida de datos.exe.config
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejericicio 3 Comentarios y salida de Datos\Comentarios y Salida de datos\Comentarios y Salida de datos\bin\Debug\Comentarios y Salida de datos.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejericicio 3 Comentarios y salida de Datos\Comentarios y Salida de datos\Comentarios y Salida de datos\bin\Debug\Comentarios y Salida de datos.pdb
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejericicio 3 Comentarios y salida de Datos\Comentarios y Salida de datos\Comentarios y Salida de datos\obj\Debug\Comentarios y Salida de datos.csproj.AssemblyReference.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejericicio 3 Comentarios y salida de Datos\Comentarios y Salida de datos\Comentarios y Salida de datos\obj\Debug\Comentarios y Salida de datos.csproj.CoreCompileInputs.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejericicio 3 Comentarios y salida de Datos\Comentarios y Salida de datos\Comentarios y Salida de datos\obj\Debug\Comentarios y Salida de datos.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejericicio 3 Comentarios y salida de Datos\Comentarios y Salida de datos\Comentarios y Salida de datos\obj\Debug\Comentarios y Salida de datos.pdb

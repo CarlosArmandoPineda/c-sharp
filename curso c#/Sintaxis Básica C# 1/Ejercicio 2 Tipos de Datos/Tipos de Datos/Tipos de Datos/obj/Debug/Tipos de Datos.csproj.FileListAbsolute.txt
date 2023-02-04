@@ -1,0 +1,7 @@
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 2 Tipos de Datos\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe.config
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 2 Tipos de Datos\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 2 Tipos de Datos\Tipos de Datos\Tipos de Datos\bin\Debug\Tipos de Datos.pdb
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 2 Tipos de Datos\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.csproj.AssemblyReference.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 2 Tipos de Datos\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.csproj.CoreCompileInputs.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 2 Tipos de Datos\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 2 Tipos de Datos\Tipos de Datos\Tipos de Datos\obj\Debug\Tipos de Datos.pdb

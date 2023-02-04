@@ -1,0 +1,7 @@
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Conversion Implicita y Explicita\Conversiones\Conversiones\bin\Debug\Conversiones.exe.config
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Conversion Implicita y Explicita\Conversiones\Conversiones\bin\Debug\Conversiones.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Conversion Implicita y Explicita\Conversiones\Conversiones\bin\Debug\Conversiones.pdb
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Conversion Implicita y Explicita\Conversiones\Conversiones\obj\Debug\Conversiones.csproj.AssemblyReference.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Conversion Implicita y Explicita\Conversiones\Conversiones\obj\Debug\Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Conversion Implicita y Explicita\Conversiones\Conversiones\obj\Debug\Conversiones.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 4 Conversion Implicita y Explicita\Conversiones\Conversiones\obj\Debug\Conversiones.pdb

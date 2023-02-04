@@ -1,0 +1,7 @@
+C:\Users\itsca\OneDrive\Documentos\curso c#\Ejemplos de sintaxis 1\Ejercicio 1 Hola mundo\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe.config
+C:\Users\itsca\OneDrive\Documentos\curso c#\Ejemplos de sintaxis 1\Ejercicio 1 Hola mundo\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Ejemplos de sintaxis 1\Ejercicio 1 Hola mundo\Hola mundo\Hola mundo\bin\Debug\Hola mundo.pdb
+C:\Users\itsca\OneDrive\Documentos\curso c#\Ejemplos de sintaxis 1\Ejercicio 1 Hola mundo\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csproj.AssemblyReference.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Ejemplos de sintaxis 1\Ejercicio 1 Hola mundo\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csproj.CoreCompileInputs.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Ejemplos de sintaxis 1\Ejercicio 1 Hola mundo\Hola mundo\Hola mundo\obj\Debug\Hola mundo.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Ejemplos de sintaxis 1\Ejercicio 1 Hola mundo\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb

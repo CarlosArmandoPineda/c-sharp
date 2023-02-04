@@ -1,0 +1,7 @@
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 5 Uso de Constantes\Constantes\Constantes\bin\Debug\Constantes.exe.config
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 5 Uso de Constantes\Constantes\Constantes\bin\Debug\Constantes.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 5 Uso de Constantes\Constantes\Constantes\bin\Debug\Constantes.pdb
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 5 Uso de Constantes\Constantes\Constantes\obj\Debug\Constantes.csproj.AssemblyReference.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 5 Uso de Constantes\Constantes\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 5 Uso de Constantes\Constantes\Constantes\obj\Debug\Constantes.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Sintaxis Básica C# 1\Ejercicio 5 Uso de Constantes\Constantes\Constantes\obj\Debug\Constantes.pdb
