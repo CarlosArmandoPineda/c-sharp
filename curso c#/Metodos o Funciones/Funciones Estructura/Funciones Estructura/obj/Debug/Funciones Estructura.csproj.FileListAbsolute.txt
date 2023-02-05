@@ -1,0 +1,7 @@
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones Estructura\Funciones Estructura\bin\Debug\Funciones Estructura.exe.config
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones Estructura\Funciones Estructura\bin\Debug\Funciones Estructura.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones Estructura\Funciones Estructura\bin\Debug\Funciones Estructura.pdb
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones Estructura\Funciones Estructura\obj\Debug\Funciones Estructura.csproj.AssemblyReference.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones Estructura\Funciones Estructura\obj\Debug\Funciones Estructura.csproj.CoreCompileInputs.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones Estructura\Funciones Estructura\obj\Debug\Funciones Estructura.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones Estructura\Funciones Estructura\obj\Debug\Funciones Estructura.pdb
