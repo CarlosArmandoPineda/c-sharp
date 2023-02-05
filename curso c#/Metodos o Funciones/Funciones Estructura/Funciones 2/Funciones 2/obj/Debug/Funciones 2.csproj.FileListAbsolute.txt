@@ -1,7 +1,0 @@
-C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 2\Funciones 2\bin\Debug\Funciones 2.exe.config
-C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 2\Funciones 2\bin\Debug\Funciones 2.exe
-C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 2\Funciones 2\bin\Debug\Funciones 2.pdb
-C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 2\Funciones 2\obj\Debug\Funciones 2.csproj.AssemblyReference.cache
-C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 2\Funciones 2\obj\Debug\Funciones 2.csproj.CoreCompileInputs.cache
-C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 2\Funciones 2\obj\Debug\Funciones 2.exe
-C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 2\Funciones 2\obj\Debug\Funciones 2.pdb
