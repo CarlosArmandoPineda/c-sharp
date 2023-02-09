@@ -1,0 +1,7 @@
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 3\Ejercicio Metodos con Retorno\Ejercicio Metodos con Retorno\obj\Debug\Ejercicio Metodos con Retorno.csproj.AssemblyReference.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 3\Ejercicio Metodos con Retorno\Ejercicio Metodos con Retorno\obj\Debug\Ejercicio Metodos con Retorno.csproj.CoreCompileInputs.cache
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 3\Ejercicio Metodos con Retorno\Ejercicio Metodos con Retorno\bin\Debug\Ejercicio Metodos con Retorno.exe.config
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 3\Ejercicio Metodos con Retorno\Ejercicio Metodos con Retorno\bin\Debug\Ejercicio Metodos con Retorno.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 3\Ejercicio Metodos con Retorno\Ejercicio Metodos con Retorno\bin\Debug\Ejercicio Metodos con Retorno.pdb
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 3\Ejercicio Metodos con Retorno\Ejercicio Metodos con Retorno\obj\Debug\Ejercicio Metodos con Retorno.exe
+C:\Users\itsca\OneDrive\Documentos\curso c#\Metodos o Funciones\Funciones 3\Ejercicio Metodos con Retorno\Ejercicio Metodos con Retorno\obj\Debug\Ejercicio Metodos con Retorno.pdb
